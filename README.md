@@ -8,3 +8,7 @@
   - VNN - Mathes Thomé "prime" 
   - auto encoders - Gabriel "ego" Brum
 - conclusao
+
+## apresentação
+
+slides disponíveis [aqui](https://endereco-do-site.com)
